@@ -95,9 +95,9 @@ print(traversedpath)
 
 <hr>
 <h3>Sample Input And Output</h3>
-<hr>
+
 ![image](https://github.com/SaiDarshan2003/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94692595/586c1003-1384-419f-b7bf-89ba323942df)
-<hr>
+
 
 
 
