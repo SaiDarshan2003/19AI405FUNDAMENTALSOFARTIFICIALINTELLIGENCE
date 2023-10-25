@@ -94,24 +94,12 @@ print(traversedpath)
 ```
 
 <hr>
-<h3>Sample Input</h3>
+<h3>Sample Input And Output</h3>
 <hr>
-8 9 <BR>
-A B <BR>
-A C <BR>
-B E <BR>
-C D <BR>
-B D <BR>
-C G <BR>
-D F <BR>
-G F <BR>
-F H <BR>
+![image](https://github.com/SaiDarshan2003/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94692595/586c1003-1384-419f-b7bf-89ba323942df)
 <hr>
 
-<h3>Sample Output</h3>
-<hr>
-['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
-<hr>
+
 
 <h3>Result:</h3>
 <hr>
