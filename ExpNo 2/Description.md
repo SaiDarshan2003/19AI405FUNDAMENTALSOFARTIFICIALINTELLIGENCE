@@ -67,9 +67,9 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 
 </ol>
 
- <hr>
+<hr>
 <h2>Program:<h2>
- <hr>
+<hr>
   
 ```
 from collections import deque
@@ -102,6 +102,7 @@ traversedpath = bfs(graph,start,visited,path)
 print(traversedpath)
 
 ```
+
 <h3>Input 1</h3>
 
 ![image](https://github.com/SaiDarshan2003/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94692595/d377c47c-e787-432a-af02-c533188f582c)
