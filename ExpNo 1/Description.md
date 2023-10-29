@@ -66,15 +66,19 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 </ol></B>
 
 <h3>Input 1</h3>
+
 ![image](https://github.com/SaiDarshan2003/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94692595/a7c9fdc9-7a87-4040-adf0-9ace207401a9)
 
 <h3>Output 1</h3>
+
 ![image](https://github.com/SaiDarshan2003/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94692595/9bc924bd-f808-4be1-9e11-c29153b39fa0)
 
 <h3>Input 2</h3>
+
 ![image](https://github.com/SaiDarshan2003/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94692595/af0ce05e-faf4-4345-bd82-b5433c9ebc7f)
 
 <h3>Output 2</h3>
+
 ![image](https://github.com/SaiDarshan2003/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94692595/c2eec4c0-900a-4cc5-90c3-1c8abfbcb231)
 
 
