@@ -68,7 +68,7 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 </ol>
 
 <hr>
-<h2>Program:<h2>
+<h2>Program:</h2>
 <hr>
   
 ```
@@ -100,7 +100,6 @@ path = []
 visited = defaultdict(bool)
 traversedpath = bfs(graph,start,visited,path)
 print(traversedpath)
-
 ```
 
 <h3>Input 1</h3>
