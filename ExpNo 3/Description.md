@@ -4,7 +4,7 @@
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
-// A* Search Algorithm
+A* Search Algorithm
 1.  Initialize the open list
 2.  Initialize the closed list
     put the starting node on the open 
@@ -45,11 +45,8 @@
   
     e) push q on the closed list
     end (while loop)
-
-
-<hr>
+    
 <h2>Program</h2>
-<hr>
 
 ```
 from collections import defaultdict
@@ -125,12 +122,11 @@ print(graph)
 aStarAlgo('S', 'G')
 
 ```
-
-<hr>
 <h2> Graph I</h2>
-<hr>
 
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/b1377c3f-011a-4c0f-a843-516842ae056a)
+
+![image](https://github.com/SaiDarshan2003/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94692595/230b39db-f351-4abe-a4ad-cc1be52b3d09)
+
 
 <h2>Input 1</h2>
 
@@ -145,7 +141,8 @@ aStarAlgo('S', 'G')
 
 <h2>Graph II</h2>
 
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3)
+![image](https://github.com/SaiDarshan2003/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94692595/844d075c-1863-4018-b342-01c1135eb844)
+
 
 <h2>Input 2</h2>
 
