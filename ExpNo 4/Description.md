@@ -83,9 +83,16 @@ def SimpleHillClimbing():
 <h2>Output:</h2>
 
 ![image](https://github.com/SaiDarshan2003/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94692595/67cd836b-b490-4165-a004-3cc048af1a79)
+
 .
+
 .
+
 .
+
 ![image](https://github.com/SaiDarshan2003/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94692595/d3a9eac3-9476-4b58-8af4-e431240158c9)
 
 
+Result:
+
+Thus,a string was constructed and implementation of Simple Hill Climbing was done successfully.
