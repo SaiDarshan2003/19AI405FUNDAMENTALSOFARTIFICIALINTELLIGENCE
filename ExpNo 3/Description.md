@@ -45,11 +45,7 @@
   
     e) push q on the closed list
     end (while loop)
-<hr>
-<h2>Sample Graph I</h2>
-<hr>
 
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/b1377c3f-011a-4c0f-a843-516842ae056a)
 
 <hr>
 <h2>Program</h2>
@@ -130,6 +126,11 @@ aStarAlgo('S', 'G')
 
 ```
 
+<hr>
+<h2> Graph I</h2>
+<hr>
+
+![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/b1377c3f-011a-4c0f-a843-516842ae056a)
 
 <h2>Input 1</h2>
 
